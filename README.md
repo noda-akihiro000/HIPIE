@@ -1,11 +1,11 @@
-# Hierarchical Open-vocabulary Universal Image Segmentation
+# HIPIE: Hierarchical Open-vocabulary Universal Image Segmentation
 
 **HIPIE** can provide high-quality class-aware image segmentation for a wide range of objects/parts. We consider all relevant tasks under the unified framework of language-guided segmentation, which performs open-vocabulary segmentation and detection tasks for arbitrary text-based descriptions.
 
 <p align="center"> <img src='assets/teaser.png' align="center" > </p>            
 
 > [**Hierarchical Open-vocabulary Universal Image Segmentation**](http://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/)            
-> [Xudong Wang*](https://people.eecs.berkeley.edu/~xdwang/), [Shufan Li*](https://rohitgirdhar.github.io/), Konstantinos Kallidromitis*, Yusuke Kato, Kazuki Kozuka, [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/)            
+> [Xudong Wang*](https://people.eecs.berkeley.edu/~xdwang/), [Shufan Li*](https://homepage.jackli.org/), Konstantinos Kallidromitis*, Yusuke Kato, Kazuki Kozuka, [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/)            
 > Berkeley AI Research, UC Berkeley; Panasonic AI Research            
 
 [project page](http://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/) | [arxiv]() | [demo]() | [bibtex](#citation)
