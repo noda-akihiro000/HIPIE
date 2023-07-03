@@ -10,7 +10,7 @@ inference_test_output
 *.jpg
 *.tar
 !/projects/DensePose/doc/images/*.jpg
-
+!/assets/*
 # compilation and distribution
 __pycache__
 _ext
