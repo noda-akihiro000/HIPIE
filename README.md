@@ -35,7 +35,7 @@ We will release training and evlautation code with more checkpoints soon.
 
 
 ## License
-HIPIE is licensed under the [MIT license](LICENSE). If you later add other third party code, please keep this license info updated, and please let us know if that component is licensed under something other than CC-BY-NC, MIT, or CC0.
+The majority of HIPIE is licensed under the [MIT license](LICENSE). If you later add other third party code, please keep this license info updated, and please let us know if that component is licensed under something other than CC-BY-NC, MIT, or CC0.
 
 
 ## How to get support from us?
