@@ -8,7 +8,7 @@ We present **HIPIE**, a novel HIerarchical, oPen-vocabulary and unIvErsal image 
 > [Xudong Wang*](https://people.eecs.berkeley.edu/~xdwang/), [Shufan Li*](https://homepage.jackli.org/), [Konstantinos Kallidromitis*](https://tech-ai.panasonic.com/en/researcher_introduction/048/), Yusuke Kato, Kazuki Kozuka, [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/)            
 > Berkeley AI Research, UC Berkeley; Panasonic AI Research            
 
-[[`project page`](http://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/)] [[`arxiv`](http://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/)] [[`bibtex`](#citation)]
+[[`project page`](http://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/)] [[`arxiv`](https://arxiv.org/abs/2307.00764)] [[`paper`](https://arxiv.org/pdf/2307.00764.pdf)] [[`bibtex`](#citation)]
 
 *Currently, this repo contains only codes for demos. Stay tuned.*  
 
@@ -50,10 +50,12 @@ If you have any general questions, feel free to email us at [Xudong Wang](mailto
 ## Citation
 If you find our work inspiring or use our codebase in your research, please consider giving a star ⭐ and a citation.
 ```
-@inproceedings{wang2023Hierarchical,
-  title={Hierarchical Open-vocabulary Universal Image Segmentation},
-  author={Wang, Xudong and Li, Shufan and Kallidromitis, Konstantinos and Kato, Yusuke and Kozuka, Kazuki and Darrell, Trevor},
-  journal={arXiv preprint arXiv:xxxxx.xxxx},
-  year={2023}
+@misc{wang2023hierarchical,
+  title={Hierarchical Open-vocabulary Universal Image Segmentation}, 
+  author={Xudong Wang and Shufan Li and Konstantinos Kallidromitis and Yusuke Kato and Kazuki Kozuka and Trevor Darrell},
+  year={2023},
+  eprint={2307.00764},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
 }
 ```
