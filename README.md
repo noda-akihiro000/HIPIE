@@ -25,6 +25,7 @@ Please refer to [INSTALL.md](assets/INSTALL.md) for more details.
 <p align="center">
   <img src="assets/HIPIE-SAM-demos.gif" width=100%>
 </p>
+HIPIE is also capable of labeling segmentation masks from SAM and can even identify additional masks that may have been overlooked by SAM.
 
 Please check our [project page](http://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/) for more demos!
 
