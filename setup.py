@@ -185,7 +185,18 @@ setup(
         "scipy>1.5.1",
         'fairscale',
         'diffusers',
-        'open-clip-torch==2.0.2',
+        "einops",
+        "timm",
+        "jpeg4py",
+        "visdom",
+        "easydict",
+        "scikit-image",
+        "transformers",
+        "tikzplotlib",
+        "motmetrics",
+        "shapely==1.7.1",
+        "open-clip-torch==2.0.2",
+        
         # If a new dependency is required at import time (in addition to runtime), it
         # probably needs to exist in docs/requirements.txt, or as a mock in docs/conf.py
     ],
