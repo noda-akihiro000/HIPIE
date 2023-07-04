@@ -1,14 +1,14 @@
 # HIPIE: Hierarchical Open-vocabulary Universal Image Segmentation
 
-**HIPIE** can provide high-quality class-aware image segmentation for a wide range of objects/parts. We consider all relevant tasks under the unified framework of language-guided segmentation, which performs open-vocabulary segmentation and detection tasks for arbitrary text-based descriptions.
+We present **HIPIE**, a novel HIerarchical, oPen-vocabulary and unIvErsal image segmentation and detection model that is capable of performing segmentation tasks at various levels of granularities (whole, part and subpart) and tasks, including semantic segmentation, instance segmentation, panoptic segmentation, referring segmentation, and part segmentation, all within a unified framework of language-guided segmentation. 
 
 <p align="center"> <img src='assets/teaser.png' align="center" > </p>            
 
 > [**Hierarchical Open-vocabulary Universal Image Segmentation**](http://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/)            
-> [Xudong Wang*](https://people.eecs.berkeley.edu/~xdwang/), [Shufan Li*](https://homepage.jackli.org/), Konstantinos Kallidromitis*, Yusuke Kato, Kazuki Kozuka, [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/)            
+> [Xudong Wang*](https://people.eecs.berkeley.edu/~xdwang/), [Shufan Li*](https://homepage.jackli.org/), [Konstantinos Kallidromitis*](https://tech-ai.panasonic.com/en/researcher_introduction/048/), Yusuke Kato, Kazuki Kozuka, [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/)            
 > Berkeley AI Research, UC Berkeley; Panasonic AI Research            
 
-[project page](http://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/) | [arxiv]() | [demo]() | [bibtex](#citation)
+[[`project page`](http://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/)] [[`arxiv`](http://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/)] [[`bibtex`](#citation)]
 
 *Currently, this repo contains only codes for demos. Stay tuned.*  
 
@@ -22,6 +22,11 @@ Please refer to [INSTALL.md](assets/INSTALL.md) for more details.
 -  See  [Demo-SD](notebooks/Inpaint.ipynb) for Combining our model with Stable Diffusion
 -  See  [Demo-SAM](notebooks/Demo-HIPIE+SAM.ipynb) for Combining our model with Segment Anything
 
+<p align="center">
+  <img src="assets/HIPIE-SAM-demos.gif" width=100%>
+</p>
+
+Please check our [project page](http://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/) for more demos!
 
 ## Model Zoo
 We release two [checkpoints](https://drive.google.com/drive/folders/1_kD3XILU1DC8uGn4vMGHgglDVlCl1U0W?usp=sharing) at the moment.
