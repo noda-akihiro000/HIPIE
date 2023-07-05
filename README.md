@@ -23,7 +23,7 @@ Please refer to [INSTALL.md](assets/INSTALL.md) for more details.
 -  See  [Demo-SAM](notebooks/Demo-HIPIE+SAM.ipynb) for Combining our model with Segment Anything
 
 <p align="center">
-  <img src="assets/HIPIE-SAM-demos.gif" width=100%>
+  <img src="https://people.eecs.berkeley.edu/~xdwang/projects/HIPIE/static/videos/HIPIE-GitHub.gif" width=100%>
 </p>
 HIPIE is also capable of labeling segmentation masks from SAM and can even identify additional masks that may have been overlooked by SAM.
 
