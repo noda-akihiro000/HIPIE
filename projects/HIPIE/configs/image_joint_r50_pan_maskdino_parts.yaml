@@ -23,7 +23,7 @@ MODEL:
   MASKDINO:
     ENABLED: on
     CONFIG_PATH:  'projects/HIPIE/configs/mask_dino/maskdino_R50_bs16_50ep_3s_dowsample1_2048.yaml'
-    PRETRAINED: 'projects/HIPIE/maskdino/maskdino_r50_50ep_300q_hid2048_3sd1_panoptic_pq53.0.pth'
+    PRETRAINED: ''
     SHARE_CLS_HEAD: False
   DDETRS:
     FINAL_BG_WEIGHT: 0.0 # DROPPED
