@@ -43,10 +43,3 @@ wget -c https://huggingface.co/bert-base-uncased/resolve/main/vocab.txt
 wget -c https://huggingface.co/bert-base-uncased/resolve/main/pytorch_model.bin
 cd ../../..
 ```
-Maskdino Weight
-```
-mkdir -p projects/HIPIE/maskdino
-cd projects/HIPIE/maskdino
-wget -c https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid2048_3sd1_panoptic_pq53.0.pth
-cd ../../..
-```
